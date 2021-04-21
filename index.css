@@ -1,0 +1,18 @@
+body
+{
+    background-image: url(фон.jpg);
+}
+
+
+#avatar
+{
+    display: block;
+    margin: 0 auto;
+    width: 300px;
+    height: 380px;
+}
+
+.container
+{
+    margin-top:200px;
+}
